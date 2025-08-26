@@ -1,7 +1,12 @@
 ---
-const { projectTitle, projectDescription } = Astro.props;
+const { projectTitle, projectDescription, link } = Astro.props;
 ---
-<section>
-    <h3 class="text-2xl font-bold mb-2">{projectTitle}</h3>
+
+<section class="pb-4">
+    <h3 class="text-2xl font-bold">
+        <a href={link} target="_blank" class="hover:text-blue-400 hover:underline"
+            >{projectTitle}</a
+        >
+    </h3>
     <p class="text-gray-400">{projectDescription}</p>
 </section>
