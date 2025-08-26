@@ -1,6 +1,6 @@
 ---
 title: "GitPeek"
-description: "GitPeek is a web application built with **Next.js** that allows users to share private Git repositories securely. It lets you view the structure and contents of repositories without making them public."
+description: "GitPeek is a web application built with Next.js that allows users to share private Git repositories securely. It lets you view the structure and contents of repositories without making them public."
 link: "https://gitpeek.tech/"
 ---
 # GitPeek

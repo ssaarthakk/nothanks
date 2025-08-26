@@ -1,6 +1,6 @@
 ---
 title: "Happy Birthday"
-description: "A fun web app where you can enter a name and display a **Happy Birthday** greeting."
+description: "A fun web app where you can enter a name and display a Happy Birthday greeting."
 link: "https://happybirthday.nothanks.foo/"
 ---
 # Happy Birthday

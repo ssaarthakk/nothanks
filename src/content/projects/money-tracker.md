@@ -1,6 +1,6 @@
 ---
 title: "Money Tracker"
-description: "A simple and lightweight **Money Tracker Web App** to manage daily income and expenses."
+description: "A simple and lightweight Money Tracker Web App to manage daily income and expenses."
 link: "https://moneytracker.nothanks.foo/"
 ---
 # Money Tracker

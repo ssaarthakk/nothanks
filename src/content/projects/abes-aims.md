@@ -1,6 +1,6 @@
 ---
 title: "ABES AIMS"
-description: "ABES AIMS is a handy mobile application to view your **attendance data** and **timetable** from the Simplifii Portal in a clean and accessible way."
+description: "ABES AIMS is a handy mobile application to view your attendance data and timetable from the Simplifii Portal in a clean and accessible way."
 link: "https://play.google.com/store/search?q=abes+aims&c=apps"
 ---
 # ABES AIMS
