@@ -5,7 +5,7 @@ import { getCollection } from "astro:content";
 const projects = await getCollection("projects");
 ---
 
-<main class="flex justify-center items-start flex-col px-16 mx-auto w-[60%]">
+<main class="flex justify-center items-start flex-col mx-auto w-[60%] max-w-[60%]">
     <h2 class="text-4xl font-bold pb-10">Projects</h2>
     <ul class="list-none">
         <li class="pb-8">
